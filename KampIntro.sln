@@ -31,7 +31,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\Reca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "LinqProject\LinqProject.csproj", "{F0FC3DE5-2F15-4B93-B4D6-02EBA5BBFF06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{F9CC0013-E132-4190-897E-CCAFBF6F5413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{F9CC0013-E132-4190-897E-CCAFBF6F5413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDemo", "EntityFrameworkDemo\EntityFrameworkDemo.csproj", "{4B052CDB-257C-4FAF-BAEF-223C43532018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F9CC0013-E132-4190-897E-CCAFBF6F5413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9CC0013-E132-4190-897E-CCAFBF6F5413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9CC0013-E132-4190-897E-CCAFBF6F5413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B052CDB-257C-4FAF-BAEF-223C43532018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B052CDB-257C-4FAF-BAEF-223C43532018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B052CDB-257C-4FAF-BAEF-223C43532018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B052CDB-257C-4FAF-BAEF-223C43532018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
